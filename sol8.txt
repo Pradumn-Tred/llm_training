@@ -1,0 +1,6 @@
+LMStudio
+1. Visit the LMStudio GitHub page.
+2. Download the appropriate version for your OS.
+3. Run the installer for your OS (Windows, macOS, Linux).
+4. Follow the installation instructions.
+5. Launch LMStudio from your applications or start menu.
